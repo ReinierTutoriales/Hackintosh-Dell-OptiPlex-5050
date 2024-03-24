@@ -4,9 +4,6 @@ Repositorio EFI Hackintosh  Dell Dell OptiPlex 5050
 <img src="IMG/Dell%20OptiPlex%205050.png" alt="Hackintosh Dell OptiPlex 5050
 " width="20%" height="20%" />
 
-[![Static Badge](https://img.shields.io/badge/macOS-Ventura-blue)](https://www.reiniertutoriales.com/isos-raw-macos/)
-[![Static Badge](https://img.shields.io/badge/OpenCore-1.0.0-green)](https://github.com/dortania/build-repo/releases/download/OpenCorePkg-58f57a3/OpenCore-1.0.0-RELEASE.zip)
-
 [![](https://img.shields.io/badge/YouTube-informational?style=for-the-badge&logo=telegram&logoColor=white&color=FF0000)](https://youtube.com/c/ReinierTutoriales)
 [![](https://img.shields.io/badge/PayPal-informational?style=for-the-badge&logo=paypal&logoColor=white&color=003087)](https://www.paypal.com/paypalme/ReinierTutoriales)
 [![](https://img.shields.io/badge/-Telegram-informational?style=for-the-badge&logo=telegram&logoColor=white&color=0088cc)](https://t.me/ReinierTutoriales)
@@ -23,9 +20,14 @@ Repositorio EFI Hackintosh  Dell Dell OptiPlex 5050
 
 <hr>
 
+
 ![macOS Sonoma](IMG/1.png)
 
+
 ![macOS Sonoma](IMG/2.png)
+
+[![Static Badge](https://img.shields.io/badge/macOS-Ventura-blue)](https://www.reiniertutoriales.com/isos-raw-macos/)
+[![Static Badge](https://img.shields.io/badge/OpenCore-1.0.0-green)](https://github.com/dortania/build-repo/releases/download/OpenCorePkg-58f57a3/OpenCore-1.0.0-RELEASE.zip)
 
 
 
