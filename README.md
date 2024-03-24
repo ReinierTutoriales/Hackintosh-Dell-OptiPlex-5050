@@ -57,8 +57,10 @@ Repositorio EFI Hackintosh  Dell Dell OptiPlex 5050
 * Power Management → Block Sleep → Block Sleep (S3 state) ***Controlar***
 * Virtualization Support → VT for Direct I/O: ***Desmarcar***
 
+
 # OpenCore
 **Versión**: 0.9.9
+
 # Estructura EFI
 ## ACPI
 - SSDT-EC.aml
@@ -94,8 +96,8 @@ Repositorio EFI Hackintosh  Dell Dell OptiPlex 5050
 # Tools
 - OpenShell.efi
 - ResetSystem.efi
-## Que funciona y que no funciona
-### Finciona
+# Que funciona y que no funciona
+## Finciona
 - Casi todo, incluida las actualizaciones de Apple (Handoff, iMessage, Airdrop, Facetime, ...)
 
 ## Referencias
