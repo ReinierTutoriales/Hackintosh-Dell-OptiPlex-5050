@@ -1,7 +1,8 @@
 # Hackintosh-Dell-OptiPlex-5050
 Repositorio EFI Hackintosh  Dell Dell OptiPlex 5050
 
-<img src="IMG/Dell%20OptiPlex%205050.png" alt="texto" width="50%" height="50%" />
+<img src="IMG/Dell%20OptiPlex%205050.png" alt="Hackintosh Dell OptiPlex 5050
+" width="50%" height="50%" />
 
 [![Static Badge](https://img.shields.io/badge/macOS-Ventura-blue)](https://www.reiniertutoriales.com/isos-raw-macos/)
 [![Static Badge](https://img.shields.io/badge/OpenCore-1.0.0-green)](https://github.com/dortania/build-repo/releases/download/OpenCorePkg-58f57a3/OpenCore-1.0.0-RELEASE.zip)
