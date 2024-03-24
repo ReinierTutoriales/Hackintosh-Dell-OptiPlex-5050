@@ -16,6 +16,7 @@ Repositorio EFI Hackintosh  Dell Dell OptiPlex 5050
 
 
 
+# Configuración del BIOS
 * General → Advanced Boot Options：***Desmarcar***
 * System Configuration → SATA Operation: ***AHCI***
 * System Configuration → Serial Port: ***Disabled***
