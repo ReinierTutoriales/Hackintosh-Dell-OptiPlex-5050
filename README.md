@@ -56,3 +56,50 @@ Repositorio EFI Hackintosh  Dell Dell OptiPlex 5050
 * Secure Boot → Secure Boot Enable: ***Disabled***
 * Power Management → Block Sleep → Block Sleep (S3 state) ***Controlar***
 * Virtualization Support → VT for Direct I/O: ***Desmarcar***
+
+# OpenCore
+**Versión**: 0.9.9
+# Estructura EFI
+## ACPI
+- SSDT-EC.aml
+- SSDT-HPET.aml
+- SSDT-PLUG.aml
+- SSDT-PMC.aml
+- SSDT-USBX.aml
+
+## Drivers
+- HfsPlus.efi
+- OpenCanopy.efi
+- OpenRuntime.efi
+- ResetNvramEntry.efi
+- ToggleSipEntry.efi
+## Kexts
+- AirportItlwm.kext
+- AppleALC.kext
+- BlueToolFixup.kext
+- HibernationFixup.kext
+- IntelBTPatcher.kext
+- IntelBluetoothFirmware.kext
+- IntelMausi.kext
+- Lilu.kext
+- NVMeFix.kext
+- RestrictEvents.kext
+- SMCProcessor.kext
+- SMCSuperIO.kext
+- USBToolBox.kext
+- UTBMap.kext
+- VirtualSMC.kext
+- WhateverGreen.kext
+
+# Tools
+- OpenShell.efi
+- ResetSystem.efi
+## Que funciona y que no funciona
+### Finciona
+- Casi todo, incluida las actualizaciones de Apple (Handoff, iMessage, Airdrop, Facetime, ...)
+
+## Referencias
+- [OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/ "Dortania's OpenCore Install Guide")
+- [Blog ReinierTutoriales](https://www.reiniertutoriales.com)
+😎
+
