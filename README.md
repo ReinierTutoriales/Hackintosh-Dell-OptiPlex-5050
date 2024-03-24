@@ -1,8 +1,7 @@
 # Hackintosh-Dell-OptiPlex-5050
 Repositorio EFI Hackintosh  Dell Dell OptiPlex 5050
 
-![](IMG/Dell%20OptiPlex%205050.png | width=100)
-<img src="[https://github.com/ReinierTutoriales/Hackintosh-Dell-OptiPlex-5050/tree/main/IMG](https://github.com/ReinierTutoriales/Hackintosh-Dell-OptiPlex-5050/blob/main/IMG/Dell%20OptiPlex%205050.png)" data-canonical-src="IMG/Dell%20OptiPlex%205050.png" width="200" height="400" />
+<img src="[https://your-image-url.type](https://github.com/ReinierTutoriales/Hackintosh-Dell-OptiPlex-5050/blob/main/IMG/Dell%20OptiPlex%205050.png)" width="100" height="100">
 
 ![macOS Sonoma](IMG/1.png)
 
