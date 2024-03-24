@@ -1,6 +1,8 @@
 # Hackintosh-Dell-OptiPlex-5050
 Repositorio EFI Hackintosh  Dell Dell OptiPlex 5050
 
+![macOS Sonoma](IMG/1.png)
+
 
 
 | Especificaciones    | Detalles               |
