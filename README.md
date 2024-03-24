@@ -2,10 +2,6 @@
 Repositorio EFI Hackintosh  Dell Dell OptiPlex 5050
 
 <img src="IMG/Dell%20OptiPlex%205050.png" alt="" width="25%" height="25%" />
-
-![macOS Sonoma](IMG/1.png)
-
-![macOS Sonoma](IMG/2.png)
 [![Static Badge](https://img.shields.io/badge/macOS-Sonoma-blue)](https://www.reiniertutoriales.com/isos-raw-macos/)
 [![Static Badge](https://img.shields.io/badge/OpenCore-1.0.0-green)](https://github.com/dortania/build-repo/releases/download/OpenCorePkg-58f57a3/OpenCore-1.0.0-RELEASE.zip)
 
@@ -24,6 +20,11 @@ Repositorio EFI Hackintosh  Dell Dell OptiPlex 5050
 </p>
 
 <hr>
+
+![macOS Sonoma](IMG/1.png)
+
+![macOS Sonoma](IMG/2.png)
+
 
 
 | Especificaciones    | Detalles               |
